@@ -3,3 +3,7 @@ https://localbitcoins.com/
 
 Блокчейн
 https://blockchain.info/ru/wallet/#/home
+
+криптокоты
+https://www.cryptokitties.co/
+https://etherscan.io/
