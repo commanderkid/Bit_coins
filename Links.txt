@@ -7,3 +7,6 @@ https://blockchain.info/ru/wallet/#/home
 криптокоты
 https://www.cryptokitties.co/
 https://etherscan.io/
+
+Майнинг
+hashflare.io
